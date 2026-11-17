@@ -1,8 +1,11 @@
-# DropLog website
+# DropLog
 
-Static German landing page for the DropLog Windows companion. Website source is in `website/`.
+German landing page for the native Windows companion. Source: website/.
 
-Preview: `node tools/preview-website.mjs`
-Check: `node tools/check-website.mjs`
+## GitHub Pages
+Settings → Pages → Source: GitHub Actions. Then Actions → Publish DropLog website → Run workflow.
 
-Legal pages are drafts. No public binary release or completed Epic/Overwolf approval is claimed.
+Preview: node tools/preview-website.mjs
+Check: node tools/check-website.mjs
+
+Legal pages remain clearly marked drafts; public operator details and Epic domain verification still need completion. No public binary release is enabled.
